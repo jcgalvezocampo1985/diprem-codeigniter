@@ -1,0 +1,460 @@
+CRITICAL - 2022-05-17 00:01:46 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 64, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(64): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('9')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:06:32 --> unlink(C:\laragon\www\codeigniter\public\../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\larag...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('10')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:06:58 --> unlink(C:\laragon\www\codeigniter\public\../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\larag...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('11')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:08:02 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('12')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:08:54 --> unlink(C:\laragon\www\codeigniter\public\/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\larag...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('13')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:12:24 --> Call to undefined method App\Models\Libro::countAllResuls
+#0 C:\laragon\www\codeigniter\app\Controllers\Libros.php(57): CodeIgniter\Model->__call('countAllResuls', Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('17')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-17 00:12:49 --> Call to undefined method App\Models\Libro::countAllResuls
+#0 C:\laragon\www\codeigniter\app\Controllers\Libros.php(57): CodeIgniter\Model->__call('countAllResuls', Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('17')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-17 00:23:27 --> Call to undefined method App\Models\Libro::firts
+#0 C:\laragon\www\codeigniter\app\Controllers\Libros.php(54): CodeIgniter\Model->__call('firts', Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->edit('18')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-17 00:41:47 --> The original file is not a valid file.
+#0 C:\laragon\www\codeigniter\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(39): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploa...', '1652766107_e1ed...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:42:06 --> The original file is not a valid file.
+#0 C:\laragon\www\codeigniter\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(39): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploa...', '1652766126_edcd...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:42:19 --> The original file is not a valid file.
+#0 C:\laragon\www\codeigniter\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(39): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploa...', '1652766139_2f8a...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:42:29 --> The original file is not a valid file.
+#0 C:\laragon\www\codeigniter\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(39): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploa...', '1652766149_c893...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 00:42:52 --> The original file is not a valid file.
+#0 C:\laragon\www\codeigniter\system\HTTP\Files\UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(39): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploa...', '1652766172_5790...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-17 02:44:39 --> Cannot add foreign key constraint
+ERROR - 2022-05-17 02:44:39 --> Cannot add foreign key constraint
+ERROR - 2022-05-17 02:46:13 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-17 02:46:13 --> Unknown table 'codeigniter.productos'
+ERROR - 2022-05-17 02:46:37 --> Cannot add foreign key constraint
+ERROR - 2022-05-17 02:46:37 --> Cannot add foreign key constraint
+ERROR - 2022-05-17 02:47:28 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-17 02:47:28 --> Unknown table 'codeigniter.productos'
+ERROR - 2022-05-17 02:53:54 --> Cannot add foreign key constraint
+ERROR - 2022-05-17 02:54:44 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-17 03:43:53 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+ERROR - 2022-05-17 03:46:13 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+ERROR - 2022-05-17 03:59:12 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+ERROR - 2022-05-17 04:00:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 1, 2, 3) VALUES (:0:, :1:, :2:, :3:)' at line 1
+ERROR - 2022-05-17 04:00:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0) VALUES (:0:)' at line 1
+ERROR - 2022-05-17 04:01:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0) VALUES (:0:)' at line 1
+ERROR - 2022-05-17 04:02:12 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 1, 2, 3) VALUES (:0:, :1:, :2:, :3:)' at line 1
+ERROR - 2022-05-17 04:02:29 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+ERROR - 2022-05-17 04:06:25 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+ERROR - 2022-05-17 04:08:46 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0, 1) VALUES (:0:, :1:)' at line 1
+ERROR - 2022-05-17 04:11:50 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+ERROR - 2022-05-17 04:13:06 --> Cannot add or update a child row: a foreign key constraint fails (`codeigniter`.`productos`, CONSTRAINT `productos_proveedor_id_foreign` FOREIGN KEY (`proveedor_id`) REFERENCES `proveedores` (`id`))
+CRITICAL - 2022-05-17 04:45:33 --> syntax error, unexpected ';', expecting ')'
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+ERROR - 2022-05-17 05:17:24 --> Duplicate entry 'jcgalvezocampo@gmail.com' for key 'email'
+ERROR - 2022-05-17 11:47:37 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+ERROR - 2022-05-17 15:13:09 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+ERROR - 2022-05-17 15:13:17 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+ERROR - 2022-05-17 15:13:26 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+ERROR - 2022-05-17 15:13:42 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+ERROR - 2022-05-17 15:15:37 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+ERROR - 2022-05-17 15:15:39 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+CRITICAL - 2022-05-17 15:26:36 --> Cannot use object of type App\Entities\User as array
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Auth/index', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Auth\Register.php(22): view('Auth/index', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Register->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Register))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 15:27:28 --> Cannot use object of type App\Entities\User as array
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Auth/index', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Auth\Register.php(22): view('Auth/index', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Register->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Register))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-17 15:28:25 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+CRITICAL - 2022-05-17 17:13:27 --> Object of class App\Entities\User could not be converted to string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Register->index()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Register))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-17 17:31:43 --> Call to a member function getErrors() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Register->store()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Register))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-17 18:13:11 --> Class 'App\Controllers\Auth\FormModel' not found
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Register->store()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Register))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-17 19:04:17 --> Duplicate entry 'jcgalvezocampo1@gmail.com' for key 'email'
+CRITICAL - 2022-05-17 19:11:06 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\app\Controllers\Auth\Register.php(70): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Register->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Register))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 21:01:52 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\app\Controllers\Auth\Login.php(66): redirect('Admin/productos...')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Login->sigin()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-17 21:02:46 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\app\Controllers\Auth\Login.php(66): redirect('admin/productos...')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Login->sigin()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-17 21:03:52 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\system\Common.php(832): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\app\Controllers\Auth\Login.php(66): redirect('admin/productos...')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Login->sigin()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-17 21:18:32 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\app\Controllers\Auth\Login.php(77): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Login->logout()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Login))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 21:41:50 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(19): view('Admin/proveedor...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-17 21:42:15 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(19): view('Admin/proveedor...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-17 21:45:30 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(19): view('Admin/proveedor...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-17 21:45:55 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(19): view('Admin/proveedor...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-17 21:46:10 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(19): view('Admin/proveedor...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-17 21:46:48 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(19): view('Admin/proveedor...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-17 21:57:24 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(62): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-17 22:10:45 --> bootstrap4_pagination is not a valid Pager template.
+#0 C:\laragon\www\codeigniter\system\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap4_pagi...')
+#1 C:\laragon\www\codeigniter\system\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('bootstrap', 'bootstrap4_pagi...')
+#2 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(51): CodeIgniter\Pager\Pager->links('bootstrap', 'bootstrap4_pagi...')
+#3 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#6 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#8 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#9 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-17 22:11:13 --> bootstrap4_pagination is not a valid Pager template.
+#0 C:\laragon\www\codeigniter\system\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap4_pagi...')
+#1 C:\laragon\www\codeigniter\system\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('bootstrap', 'bootstrap4_pagi...')
+#2 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(43): CodeIgniter\Pager\Pager->links('bootstrap', 'bootstrap4_pagi...')
+#3 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#6 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#8 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#9 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-17 22:13:17 --> Call to undefined method CodeIgniter\Pager\Pager::setSurroundCount()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:13:34 --> Call to undefined method CodeIgniter\Pager\Pager::hasPrevious()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:14:57 --> bootstrap4_pagination is not a valid Pager template.
+#0 C:\laragon\www\codeigniter\system\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap4_pagi...')
+#1 C:\laragon\www\codeigniter\system\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('default', 'bootstrap4_pagi...')
+#2 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(43): CodeIgniter\Pager\Pager->links('default', 'bootstrap4_pagi...')
+#3 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#6 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#8 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#9 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-17 22:15:17 --> bootstrap4_pagination is not a valid Pager template.
+#0 C:\laragon\www\codeigniter\system\Pager\Pager.php(120): CodeIgniter\Pager\Exceptions\PagerException::forInvalidTemplate('bootstrap4_pagi...')
+#1 C:\laragon\www\codeigniter\system\Pager\Pager.php(83): CodeIgniter\Pager\Pager->displayLinks('bootstrap', 'bootstrap4_pagi...')
+#2 C:\laragon\www\codeigniter\app\Views\Admin\proveedores\index.php(43): CodeIgniter\Pager\Pager->links('bootstrap', 'bootstrap4_pagi...')
+#3 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#6 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#8 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#9 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-17 22:20:38 --> Call to undefined method CodeIgniter\Pager\Pager::setSurroundCount()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:20:55 --> Call to undefined method CodeIgniter\Pager\Pager::setSurroundCount()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:21:02 --> Call to undefined method CodeIgniter\Pager\Pager::hasPrevious()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:22:03 --> Call to undefined method CodeIgniter\Pager\Pager::hasPreviousPage()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/proveedor...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(24): view('Admin/proveedor...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:39:46 --> Cannot use object of type App\Entities\Proveedor as array
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/form', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(72): view('libros/form', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->edit('1')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 22:40:30 --> Invalid file: admin/proveedorees/form.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/proveedor...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('admin/proveedor...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(72): view('admin/proveedor...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->edit('1')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-17 22:59:02 -->  is not a valid rule.
+#0 C:\laragon\www\codeigniter\system\Validation\Validation.php(300): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('')
+#1 C:\laragon\www\codeigniter\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('id', 'id', '1', Array, Array)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Proveedores.php(94): CodeIgniter\Validation\Validation->run()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->update()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-17 23:09:44 --> Call to a member function getErrors() on null
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Proveedores->store()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Proveedores))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-17 23:46:23 --> Call to a member function getError() on null
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('admin/clientes/...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Clientes.php(60): view('admin/clientes/...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Clientes->edit('1')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Clientes))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-17 23:47:05 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\productos\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 28, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/productos...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Productos.php(11): view('Admin/productos...')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

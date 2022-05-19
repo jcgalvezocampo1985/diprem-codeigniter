@@ -1,0 +1,663 @@
+CRITICAL - 2022-05-19 09:26:13 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:26:58 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:27:28 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:27:42 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:28:21 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:28:46 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:28:49 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:29:12 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:29:28 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:29:46 --> Too few arguments to function App\Controllers\Admin\Productos::precioProducto(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->precioProducto()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:33:48 --> Too few arguments to function App\Controllers\Admin\Productos::listaPorProveedor(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->listaPorProveedor()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:33:57 --> Too few arguments to function App\Controllers\Admin\Productos::listaPorProveedor(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->listaPorProveedor()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 09:34:19 --> Too few arguments to function App\Controllers\Admin\Productos::listaPorProveedor(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Productos->listaPorProveedor()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Productos))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 09:37:07 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:37:22 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:37:33 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:39:26 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:40:47 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:53:18 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:56:47 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:57:26 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 09:59:23 --> Invalid default value for 'created_at'
+ERROR - 2022-05-19 10:02:49 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-19 10:02:52 --> Invalid default value for 'created_at'
+ERROR - 2022-05-19 10:03:28 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-19 10:04:09 --> Invalid default value for 'created_at'
+ERROR - 2022-05-19 10:04:20 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-19 10:04:23 --> Invalid default value for 'created_at'
+ERROR - 2022-05-19 10:04:37 --> Unknown table 'codeigniter.clientes_productos'
+ERROR - 2022-05-19 10:08:52 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 10:09:36 --> Unknown column 'updated_at' in 'field list'
+CRITICAL - 2022-05-19 10:21:15 -->  route cannot be found while reverse-routing.
+#0 C:\laragon\www\codeigniter\system\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('')
+#1 C:\laragon\www\codeigniter\app\Controllers\Auth\Registro.php(62): CodeIgniter\HTTP\RedirectResponse->route(false)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Auth\Registro->store()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth\Registro))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-19 10:26:32 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 10:27:23 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 10:30:34 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 10:42:23 --> Unknown column 'created_at' in 'field list'
+ERROR - 2022-05-19 10:43:19 --> Unknown column 'updated_at' in 'field list'
+ERROR - 2022-05-19 10:44:30 --> Unknown column 'fecha' in 'field list'
+CRITICAL - 2022-05-19 10:58:21 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\ventas\form.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 19, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('admin/ventas/fo...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Ventas.php(73): view('admin/ventas/fo...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Ventas->edit('1')
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ventas))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-19 10:59:02 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\ventas\form.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 19, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('admin/ventas/fo...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Ventas.php(79): view('admin/ventas/fo...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Ventas->edit('1')
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ventas))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-19 11:01:28 --> Object of class App\Entities\Producto could not be converted to string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Ventas->edit('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ventas))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 11:11:22 --> Object of class App\Entities\Venta could not be converted to string
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('admin/ventas/fo...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Ventas.php(79): view('admin/ventas/fo...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Ventas->edit('3')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ventas))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 11:11:33 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\ventas\form.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 48, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/ventas/fo...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Ventas.php(33): view('Admin/ventas/fo...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Ventas->create()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Ventas))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-19 11:46:14 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 11:47:33 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::getCompiledSelect()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 11:48:41 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `clientes_productos`' at line 2
+ERROR - 2022-05-19 11:48:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `clientes_productos`' at line 2
+CRITICAL - 2022-05-19 11:48:55 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 30, Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 11:49:53 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 11:50:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 11:51:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:16:11 --> Table 'codeigniter.mytable' doesn't exist
+ERROR - 2022-05-19 12:16:15 --> Table 'codeigniter.mytable' doesn't exist
+CRITICAL - 2022-05-19 12:17:43 --> Call to a member function getResult() on string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:19:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `clientes_productos`' at line 2
+ERROR - 2022-05-19 12:19:50 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `clientes_productos`' at line 2
+CRITICAL - 2022-05-19 12:20:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:20:38 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM clientes_productos
+FROM `clientes_productos`' at line 1
+CRITICAL - 2022-05-19 12:20:45 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:21:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM clientes_productos
+FROM `clientes_productos`' at line 1
+CRITICAL - 2022-05-19 12:21:06 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 12:31:01 --> Call to a member function links() on null
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(41): view('Admin/reportes/...', Array)
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('1')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-19 12:32:44 --> Unknown column 'cliente.zona' in 'where clause'
+ERROR - 2022-05-19 12:32:53 --> Unknown column 'cliente.zona' in 'where clause'
+ERROR - 2022-05-19 12:34:15 --> Unknown column 'cliente.zona' in 'where clause'
+CRITICAL - 2022-05-19 12:34:15 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 12:34:29 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 12:34:30 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 12:34:30 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-19 12:34:39 --> Unknown column 'cliente.zona' in 'where clause'
+CRITICAL - 2022-05-19 12:34:39 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:35:00 --> Unknown column 'cliente.zona' in 'where clause'
+CRITICAL - 2022-05-19 12:35:00 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:35:06 --> Unknown column 'cliente.zona' in 'where clause'
+CRITICAL - 2022-05-19 12:35:06 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:35:23 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:35:23 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:35:33 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:35:33 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\reportes\compraporzona.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 29, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(42): view('Admin/reportes/...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-19 12:35:56 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:36:03 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:36:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:36:10 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 12:36:16 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:36:18 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+ERROR - 2022-05-19 12:37:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+ERROR - 2022-05-19 12:37:54 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:37:54 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 12:38:10 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:38:10 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\reportes\compraporzona.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 29, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(42): view('Admin/reportes/...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-19 12:38:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':0:
+AND 1 = :1:' at line 6
+CRITICAL - 2022-05-19 12:38:58 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\reportes\compraporzona.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 29, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(43): view('Admin/reportes/...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona('Massachusetts')
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-19 12:49:54 --> Invalid file: Admin/reportes/compraporzona.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(28): view('Admin/reportes/...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->ventaporzona()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-19 12:50:10 --> Invalid file: Admin/reportes/compraporzona.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(29): view('Admin/reportes/...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->ventaporzona()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-19 12:50:28 --> Invalid file: Admin/reportes/compraporzona.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(28): view('Admin/reportes/...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->ventaporzona()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-19 12:51:31 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\reportes\ventaporzona.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 35, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(28): view('Admin/reportes/...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->ventaporzona()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-19 12:59:52 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:00:58 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:01:17 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:01:53 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:02:16 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:02:34 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:02:54 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:02:59 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:03:06 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:03:14 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:03:14 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:03:14 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\laragon\www\codeigniter\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('admin/reportes/...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-19 13:04:12 --> Too few arguments to function App\Controllers\Admin\Reportes::datosVentaPorZona(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosVentaPorZona()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 13:28:40 --> Invalid file: Admin/reportes/compraporzona.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(67): view('Admin/reportes/...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-19 13:32:05 --> Invalid file: Admin/reportes/compraporzonatabla.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(84): view('Admin/reportes/...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorZona('Kansas')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-19 13:32:07 --> Invalid file: Admin/reportes/compraporzonatabla.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Admin/reportes/...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(84): view('Admin/reportes/...', Array)
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorZona('Washington')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-19 13:39:29 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\reportes\compraporcliente.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 17, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(96): view('Admin/reportes/...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorCliente()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-19 13:44:40 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\Admin\reportes\compraporzona.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 17, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('Admin/reportes/...', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(61): view('Admin/reportes/...', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-19 13:45:18 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'codeigniter.proveedores.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+CRITICAL - 2022-05-19 13:45:18 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\laragon\www\codeigniter\app\Controllers\Admin\Reportes.php(59): CodeIgniter\BaseModel->findAll()
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona()
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-19 13:45:27 --> Call to a member function groupBy() on array
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->compraPorZona()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:10:44 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:10:44 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('undefined', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:10:45 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:10:45 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('undefined', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:11:02 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:11:02 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('undefined', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:11:47 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:11:47 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('undefined', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:12:42 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:12:42 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('undefined', '2022-05-05', '0')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:13:06 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:13:06 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('undefined', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 16:13:35 --> Too few arguments to function App\Controllers\Admin\Reportes::datosCompraPorCliente(), 2 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 3 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 16:14:02 --> Too few arguments to function App\Controllers\Admin\Reportes::datosCompraPorCliente(), 2 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 3 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 16:14:08 --> Too few arguments to function App\Controllers\Admin\Reportes::datosCompraPorCliente(), 2 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 3 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:14:28 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:14:28 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('1', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:14:40 --> Unknown column 'clientes.id' in 'where clause'
+CRITICAL - 2022-05-19 16:14:40 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('1', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-19 16:15:42 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%Y-%m-%d) BETWEEN 2022-05-18 AND 2022-05-20
+ORDER BY `clientes_productos`.`total' at line 6
+CRITICAL - 2022-05-19 16:15:42 --> Call to a member function getResult() on bool
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('1', '2022-05-18', '2022-05-20')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 16:16:26 --> Too few arguments to function App\Controllers\Admin\Reportes::datosCompraPorCliente(), 2 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 3 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Admin\Reportes->datosCompraPorCliente('1', '2022-05-19')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Reportes))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-19 16:37:17 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\laragon\www\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\...')
+#1 C:\laragon\www\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

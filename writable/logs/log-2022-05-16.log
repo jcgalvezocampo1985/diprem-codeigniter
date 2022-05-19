@@ -1,0 +1,577 @@
+CRITICAL - 2022-05-16 20:08:08 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:08:38 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:08:40 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:08:43 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:08:54 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:12:04 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:12:46 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:11 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:15 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:18 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:27 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:34 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:46 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:13:48 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 20:47:21 --> Invalid file: libros/listars.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('libros/listars....')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listars', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Libros.php(12): view('libros/listars')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-16 21:08:35 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Libros.php(15): view('libros/listar', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:09:45 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 22, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Libros.php(15): view('libros/listar', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:23:53 --> Invalid file: /.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('/', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Libros.php(24): view('/')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-16 21:24:15 --> Invalid file: templte/header.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templte/header....')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('templte/header', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Libros.php(24): view('templte/header')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-16 21:24:20 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 14, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Libros.php(27): view('libros/listar', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:24:36 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 14, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Libros.php(27): view('libros/listar', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:24:44 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 14, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Libros.php(27): view('libros/listar', Array)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:29:12 --> Invalid file: template/template/header.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('template/templa...')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('template/templa...', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Libros.php(24): view('template/templa...')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-16 21:30:39 --> Constant expression contains invalid operations
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-16 21:31:34 --> Invalid file: /.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+#1 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('/', Array, true)
+#2 C:\laragon\www\codeigniter\app\Controllers\Libros.php(19): view('/')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-16 21:32:28 --> Call to undefined method App\Models\Libro::orderBy()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->index()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 21:42:45 --> Invalid file: navBar.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('navBar.php')
+#1 C:\laragon\www\codeigniter\system\View\View.php(424): CodeIgniter\View\View->render('navBar', NULL, true)
+#2 C:\laragon\www\codeigniter\app\Views\template\header.php(10): CodeIgniter\View\View->include('navBar')
+#3 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('template/header', Array, true)
+#6 C:\laragon\www\codeigniter\app\Controllers\Libros.php(27): view('template/header')
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->crear()
+#8 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#9 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-16 21:42:58 --> Invalid file: navBar.php
+#0 C:\laragon\www\codeigniter\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('navBar.php')
+#1 C:\laragon\www\codeigniter\system\View\View.php(424): CodeIgniter\View\View->render('navBar.php', NULL, true)
+#2 C:\laragon\www\codeigniter\app\Views\template\header.php(10): CodeIgniter\View\View->include('navBar.php')
+#3 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('template/header', Array, true)
+#6 C:\laragon\www\codeigniter\app\Controllers\Libros.php(27): view('template/header')
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->crear()
+#8 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#9 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-16 21:44:36 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 14, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:45:07 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 14, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:45:33 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 15, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:45:34 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 15, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:45:34 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 15, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:45:34 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 15, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:46:02 --> Invalid argument supplied for foreach()
+#0 C:\laragon\www\codeigniter\app\Views\libros\listar.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\laragon\\www\\...', 15, Array)
+#1 C:\laragon\www\codeigniter\system\View\View.php(210): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('libros/listar', Array, true)
+#4 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('libros/listar')
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-16 21:51:25 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\laragon\www\codeigniter\system\View\View.php(210): include()
+#1 C:\laragon\www\codeigniter\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\laragon\www\codeigniter\system\Common.php(1089): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 C:\laragon\www\codeigniter\app\Controllers\Home.php(9): view('welcome_message')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-16 23:28:30 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 66, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(66): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('1')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:28:49 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 66, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(66): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('10')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:29:10 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:29:42 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:30:32 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:30:40 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:06 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:07 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:23 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:24 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:24 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:24 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:24 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:36 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:36 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:37 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:37 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:37 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:31:37 --> Too few arguments to function App\Controllers\Libros::delete(), 0 passed in C:\laragon\www\codeigniter\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete()
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:32:13 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 66, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(66): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('10')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:33:33 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(58): count(NULL)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('10')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:34:17 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(58): count(NULL)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('22')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:34:34 --> Call to undefined method App\Models\Libro::count
+#0 C:\laragon\www\codeigniter\app\Controllers\Libros.php(56): CodeIgniter\Model->__call('count', Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('22')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 23:35:36 --> Call to a member function num_rows() on array
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:36:07 --> Call to a member function num_rows() on null
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('22')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:38:06 --> Call to a member function count_all_results() on null
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('22')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:38:09 --> Call to a member function count_all_results() on array
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:45:40 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\laragon\\www\\...', 58, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(58): count(NULL)
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('22')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:46:01 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 66, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(66): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('22')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:48:35 --> Call to undefined method App\Models\Libro::count_all_results
+#0 C:\laragon\www\codeigniter\app\Controllers\Libros.php(56): CodeIgniter\Model->__call('count_all_resul...', Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 23:48:46 --> Call to undefined method App\Models\Libro::num_rows
+#0 C:\laragon\www\codeigniter\app\Controllers\Libros.php(56): CodeIgniter\Model->__call('num_rows', Array)
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-16 23:48:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:49:04 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:49:05 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:49:05 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:49:05 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:49:23 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::num_rows()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:50:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::affected_rows()
+#0 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('2')
+#1 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-16 23:52:18 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 66, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(66): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('3')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:53:17 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 66, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(66): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('5')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:54:28 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('6')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:57:40 --> syntax error, unexpected '*'
+#0 C:\laragon\www\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\...')
+#1 C:\laragon\www\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-16 23:57:41 --> syntax error, unexpected '*'
+#0 C:\laragon\www\codeigniter\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\...')
+#1 C:\laragon\www\codeigniter\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\laragon\www\codeigniter\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-16 23:57:49 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('4')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:58:10 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('7')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-16 23:59:51 --> unlink(../public/uploads/): Is a directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../publi...', 'C:\\laragon\\www\\...', 67, Array)
+#1 C:\laragon\www\codeigniter\app\Controllers\Libros.php(67): unlink('../public/uploa...')
+#2 C:\laragon\www\codeigniter\system\CodeIgniter.php(832): App\Controllers\Libros->delete('8')
+#3 C:\laragon\www\codeigniter\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+#4 C:\laragon\www\codeigniter\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\laragon\www\codeigniter\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
