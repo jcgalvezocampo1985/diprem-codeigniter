@@ -16,8 +16,7 @@ class Ventas extends BaseController
 
     public function index()
     {
-        $ventas = $this->model->findAll();//paginate(3, 'ventas');
-        //$pager = $this->model->pager;
+        $ventas = $this->model->findAll();
 
         return view('Admin/ventas/index', compact('ventas'));
     }

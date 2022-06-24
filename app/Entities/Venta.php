@@ -9,7 +9,7 @@ class Venta extends Entity
     protected function getClienteid()
     {
         $id = $this->attributes['cliente_id'];
-        
+
         if(!empty($id))
         {
             $cliente = model('ClienteModel');
@@ -22,7 +22,7 @@ class Venta extends Entity
     protected function getProductoid()
     {
         $id = $this->attributes['producto_id'];
-        
+
         if(!empty($id))
         {
             $producto = model('ProductoModel');

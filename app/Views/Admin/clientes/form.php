@@ -21,6 +21,10 @@ Clientes
                     </p>
                 <?php endif; ?>
             </div>
+
+             <option value="1" <?php $modulo ? ($modulo->requiere_examen = '1' ? 'selected' : '') : ''?>>Si</option>
+
+
             <div class="form-group">
                 <label for="cuit">CUIT</label>
                 <input type="text" name="cuit" id="cuit" class="form-control" value="<?= $cliente ? $cliente->cuit : old('cuit') ?>" />
